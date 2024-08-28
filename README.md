@@ -37,6 +37,16 @@ I'm **Rushal Chitrakar**, a passionate Computing student with a strong focus on 
 
 ### 📊 GitHub Stats
 
+## My GitHub Contributions Summary
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Fakron&theme=dark&hide_border=true)
+
+## Rushal's GitHub Stats
+
+- **Total Stars Earned:** 0
+- **Total Commits (2023):** 25
+
+
 ![Rushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fakron&show_icons=true&theme=radical)
 
 ### 🚀 Most Used Languages
